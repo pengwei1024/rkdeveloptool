@@ -17,3 +17,6 @@ make
 ```
 就能直接看到生成 rkDevelopTool_Mac
 
+## 烧写
+[https://juejin.cn/post/7132284547982442527](https://juejin.cn/post/7132284547982442527)
+
